@@ -11,7 +11,7 @@
    *
    *  Once the client is created, change the following url to match the
    *  parameters of the client:
-   *    https://api.instagram.com/oauth authorize/?client_id=CLIENT-ID&redirect_uri=REDIRECT-URI&response_type=token
+   *    https://api.instagram.com/oauth/authorize/?client_id=CLIENT-ID&redirect_uri=REDIRECT-URI&response_type=code
    *  This will respond in a redirect with the access token in the url.
    *
    *  How to obtain User ID
